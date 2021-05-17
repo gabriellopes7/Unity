@@ -1,0 +1,196 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'pt' Physical Memory: 16348 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Programas\Unity\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Documentos/Cursos/Unity/2d/intro/Text101/Text101
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50683
+Successfully changed project path to: D:/Documentos/Cursos/Unity/2d/intro/Text101/Text101
+D:/Documentos/Cursos/Unity/2d/intro/Text101/Text101
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path D:/Programas/Unity/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Documentos/Cursos/Unity/2d/intro/Text101/Text101/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 570 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8172 MB
+    Driver:   26.20.15002.61
+Initialize mono
+Mono path[0] = 'D:/Programas/Unity/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Programas/Unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Programas/Unity/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56916
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Programas/Unity/2020.3.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Programas/Unity/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004587 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.376 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001358 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.943 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2252.
+Total: 2.236000 ms (FindLiveObjects: 0.301500 ms CreateObjectMapping: 0.160300 ms MarkObjects: 1.657800 ms  DeleteObjects: 0.115300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/AdventureGame.cs
+  artifactKey: Guid(61d11e0cfd6aa4640900518bd75ce50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureGame.cs using Guid(61d11e0cfd6aa4640900518bd75ce50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '626df6e3d4ed1d7b69411d85582bb49a') in 0.035758 seconds
+  Import took 0.101712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 187.413557 seconds.
+  path: Assets/AdventureGame.cs
+  artifactKey: Guid(61d11e0cfd6aa4640900518bd75ce50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureGame.cs using Guid(61d11e0cfd6aa4640900518bd75ce50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5913477ecbfde39e0afa17cedc2964b') in 0.006667 seconds
+  Import took 0.028223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029991 seconds.
+  path: Assets/AdventureGame.cs
+  artifactKey: Guid(61d11e0cfd6aa4640900518bd75ce50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureGame.cs using Guid(61d11e0cfd6aa4640900518bd75ce50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5913477ecbfde39e0afa17cedc2964b') in 0.002653 seconds
+  Import took 0.007338 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002093 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.188 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.8 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2256.
+Total: 2.103800 ms (FindLiveObjects: 0.329900 ms CreateObjectMapping: 0.106700 ms MarkObjects: 1.570300 ms  DeleteObjects: 0.095500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001406 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.915 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2260.
+Total: 1.830300 ms (FindLiveObjects: 0.245000 ms CreateObjectMapping: 0.078200 ms MarkObjects: 1.409200 ms  DeleteObjects: 0.097000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.220150 seconds.
+  path: Assets/AdventureGame.cs
+  artifactKey: Guid(61d11e0cfd6aa4640900518bd75ce50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureGame.cs using Guid(61d11e0cfd6aa4640900518bd75ce50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d0e6b9b0aeb6a89fb18a491a9fc71b') in 0.005159 seconds
+  Import took 0.026439 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001511 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.869 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2264.
+Total: 2.385400 ms (FindLiveObjects: 0.222800 ms CreateObjectMapping: 0.065200 ms MarkObjects: 1.995300 ms  DeleteObjects: 0.101000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002104 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.951 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2268.
+Total: 2.307300 ms (FindLiveObjects: 0.363600 ms CreateObjectMapping: 0.125900 ms MarkObjects: 1.709000 ms  DeleteObjects: 0.107400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1830.100073 seconds.
+  path: Assets/FirstStateOfMyGame.txt
+  artifactKey: Guid(d4a36f1ed39eaef41bc2b8882c926345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstStateOfMyGame.txt using Guid(d4a36f1ed39eaef41bc2b8882c926345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f02958a1394f2b45a77cea0c74470b5') in 0.042014 seconds
+  Import took 0.058262 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
