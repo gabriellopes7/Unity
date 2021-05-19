@@ -724,6 +724,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1770602978}
+  titleComponent: {fileID: 1320666354}
+  startingState: {fileID: 11400000, guid: 26b9a79442b9a3042b3ec2952a0b8d2c, type: 2}
 --- !u!1 &1770602976
 GameObject:
   m_ObjectHideFlags: 0
@@ -783,10 +785,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 40
+    m_FontSize: 35
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 4
+    m_MinSize: 0
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
